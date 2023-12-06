@@ -4,7 +4,7 @@ import React from "react";
 
 const NavbarCadangan = () => {
   return (
-    <nav className="bg-white text-[#ff7d97] shadow-2xl">
+    <nav className="bg-white text-[#ff7d97] w-full dark:bg-zinc-800 fixed z-10 shadow-2xl">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <Link href="../">
           <Image
