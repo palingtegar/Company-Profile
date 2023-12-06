@@ -29,7 +29,7 @@ const OurworkCard = () => {
           <Link href="../ourworks">KeBINALan Lain</Link>
         </div>
       </div>
-      <div className="lg:mx-32 md:mx-24 mx-4 md:mt-5 lg:py-16 md:py-16 py-10 lg:px-0 md:px-16 lg:px-0 md:px-16 px-16 p-16 grid justify-center items-center border-4 border-[#ff7d97] rounded-3xl">
+      <div className="lg:mx-32 md:mx-24 mx-4 md:mt-5 lg:py-16 md:py-16 py-10 lg:px-0 md:px-16  px-16 p-16 grid justify-center items-center border-4 border-[#ff7d97] rounded-3xl">
         <div className="grid md:grid-cols-2 grid-cols-1 lg:gap-x-48 md:gap-x-20 md:gap-y-20 gap-y-10">
           <div className="md:h-36">
             <Image

@@ -4,7 +4,6 @@ import Megazine from "./components/Megazine";
 import Community from "./components/Community";
 import Depot from "./components/Depot";
 import Heroourwork from "./components/Heroourwork";
-import VisiMisi from "../philosophy/components/VisiMisi";
 
 const Ourworks = () => {
   return (
